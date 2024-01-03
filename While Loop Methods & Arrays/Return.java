@@ -9,6 +9,7 @@ public class Return {
 
         int sum=first+second;
         System.out.println("Sum of the number is: " + sum);
+
         
     }
 
@@ -19,7 +20,6 @@ public class Return {
             System.out.print("Enter the number: ");
             int number=input.nextInt();
             return number;
-        
     }
 
     public static void greet(){
