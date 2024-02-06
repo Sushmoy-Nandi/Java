@@ -4,6 +4,5 @@ public class firstjavaprogram{
         //System.out.print("Bangladesh");
         //System.out.println("Sushmoy Nandi");
         System.out.print("Hi");
-
     }
 }
