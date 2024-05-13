@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class swap {
     public static void main(String[] args) {
-        try (Scanner input = new Scanner(System.in)) {
+        Scanner input = new Scanner(System.in);
             System.out.print("Enter two number: ");
             
             int a= input.nextInt();
@@ -17,5 +17,4 @@ public class swap {
             System.out.println(b);
         }
 
-    }
 }

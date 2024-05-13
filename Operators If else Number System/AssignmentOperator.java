@@ -4,6 +4,8 @@ public class AssignmentOperator {
         int myInt=5;
         System.out.println(myInt);
         int newInt=myInt;
-        System.out.println(newInt); 
+        System.out.println(newInt);
+
+        
     }
 }

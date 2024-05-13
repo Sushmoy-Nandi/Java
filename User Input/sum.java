@@ -10,5 +10,6 @@ public class sum {
 
         int sum =firstNumber+secondNumber;
         System.out.println("Sum is: " + sum);
+        input.close();
     }
 }
