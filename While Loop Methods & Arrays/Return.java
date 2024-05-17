@@ -13,14 +13,13 @@ public class Return {
         
     }
 
-
     public static int readNumber()
     {
         Scanner input = new Scanner(System.in);
             System.out.print("Enter the number: ");
             int number=input.nextInt();
             return number;
-    }
+    }   
 
     public static void greet(){
         System.out.println("Welcome to Calculator");

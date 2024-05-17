@@ -5,7 +5,7 @@ public class Function {
         // System.out.println("How are you?");
         // greetUser();
         printFirstPattern();
-//      printSecondPattern();
+//      printSecondPattern();  
 //      printThirdPattern();
         
     }

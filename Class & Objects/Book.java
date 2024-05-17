@@ -9,6 +9,7 @@ class Book {
         totalNoOofBooks=0;
     }
     {
+        // object Init
         totalNoOofBooks++;
     }
 
@@ -17,7 +18,7 @@ class Book {
         this.title=title;
         this.author=author;
     }
-
+ 
     Book(String isbn){
         this(isbn,"Unknown","Unknown");
     }
@@ -32,7 +33,7 @@ class Book {
         }
         else{
             this.isBorrowed=true;
-            System.out.println("Enjoy "+title);
+            System.out.println("Enjoy "+this.title);
         }
         
     }

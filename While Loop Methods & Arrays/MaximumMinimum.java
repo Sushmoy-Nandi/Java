@@ -30,7 +30,6 @@ public class MaximumMinimum {
             i++;
         }
         return max;
-
     }
     public static int Min(int[] ar){
         int min=ar[0];

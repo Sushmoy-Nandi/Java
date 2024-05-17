@@ -16,7 +16,5 @@ public class MultiplicationTable {
             System.out.println(num + " X " + i + " = " + num*i );
             i++;
         }
-        
-
     }
 }

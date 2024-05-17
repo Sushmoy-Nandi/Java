@@ -8,6 +8,7 @@ public class TernaryOperator {
         int num1=input.nextInt();
         System.out.print("Now, enter he second number: ");
         int num2=input.nextInt();
+        input.close();
         
 
         // int greaterNumber;

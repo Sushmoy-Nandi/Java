@@ -2,18 +2,19 @@ import java.util.Scanner;
 
 public class ArraySumAverage {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        //Scanner input = new Scanner(System.in);
         System.out.println("Welcome to the Array Sum Average\n");
-        System.out.print("Enter the number of elements: ");
-        int size = input.nextInt();
-        int[] ar = new int[size];
-        int i=0;
-        while(i<size){
-            System.out.print("Enter the elements no " + (i+1)+": ");
-            ar[i]=input.nextInt();
-            i++;
-        }
-        input.close();
+        // System.out.print("Enter the number of elements: ");
+        // int size = input.nextInt();
+        // int[] ar = new int[size];
+        // int i=0;
+        // while(i<size){
+        //     System.out.print("Enter the elements no " + (i+1)+": ");
+        //     ar[i]=input.nextInt();
+        //     i++;
+        // }
+        //input.close();
+        int[] ar = ArrayUtility.inputArray();    
         long sum=sumof(ar);
         double avg=averageof(ar);
         System.out.println("Sum of the array: " + sum);

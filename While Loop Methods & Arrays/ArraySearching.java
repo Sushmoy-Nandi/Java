@@ -5,7 +5,7 @@ public class ArraySearching {
         Scanner input = new Scanner(System.in);
         int[] ar={10,20,30,40,50,60,70,80};
         System.out.println("Welcome to Array Searching");
-        System.out.print("Enter the number: ");
+        System.out.print("Enter the number you want to search: ");
         int num =input.nextInt();
         boolean isFound=arraysearching(ar, num);
         if(isFound){

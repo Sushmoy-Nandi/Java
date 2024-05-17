@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Loop {
 
     public static void main(String[] args) {
-        // int num=1;
-        // while(num<=100){
-        //     System.out.println(num);
-        //     num=num+1;
+        // int num=1;  // initialization
+        // while(num<=100){ // condition
+        //     System.out.println(num); // actual work
+        //     num=num+1; // updating the condition
         // }
 
         // int count=500;
@@ -15,7 +15,7 @@ public class Loop {
         //     count=count-1;
         // }
 
-        try (Scanner input = new Scanner(System.in)) {
+        Scanner input = new Scanner(System.in);
             int i=0;
             while (i<5) {
                 System.out.println("Enter the number: ");
@@ -23,6 +23,6 @@ public class Loop {
                 System.out.println("Number is: " + inp);
                 i++;
             }
-        }
+        
     }
 }
