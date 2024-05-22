@@ -1,2 +1,5 @@
-package in.kgcoding.library;public class Magazine {
+package in.kgcoding.library;
+
+public class Magazine extends LibraryItem{
+    private String issueNumber;
 }
