@@ -1,9 +1,14 @@
 package in.kgcoding.abstruction;
 
-public abstract class Vehicle {
+public abstract class Vehicle implements Transport {
     private int noOfTires;
 
     public abstract void makeStartSound();
+
+    @Override
+    public void getSetGo() {
+        System.out.println("going to place..");
+    }
 
     public Vehicle(int noOfTires) {
         this.noOfTires = noOfTires;
