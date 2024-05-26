@@ -1,7 +1,21 @@
 package in.kgcoding.abstruction.polymorphism;
 
-public class Vehicle {
-    public void start(){
-        System.out.println("Starting the Vehicle");
-    }
+public abstract class Vehicle {
+
+
+   private int noOfTires;
+
+   Vehicle(){
+      this.noOfTires=0;
+   }
+
+   Vehicle(int noOfTires){
+      this.noOfTires=noOfTires;
+   }
+
+   public int getNoOfTires(){
+      return this.noOfTires;
+   }
+
+   public abstract void start();
 }

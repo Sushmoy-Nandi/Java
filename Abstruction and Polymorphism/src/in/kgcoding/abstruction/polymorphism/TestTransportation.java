@@ -4,12 +4,12 @@ public class TestTransportation {
 
     public static void main(String[] args) {
         Car c = new Car();
-        Vehicle v= new Vehicle();
+        //Vehicle v= new Vehicle();
         Plane p = new Plane();
 
         //castTest(v);
         castTest(c);
-        //castTest(p);
+        castTest(p);
 
         //Vehicle vCar = new Car();
         //Car cVehicle = (Car) new Vehicle();
@@ -17,11 +17,11 @@ public class TestTransportation {
     }
     private static void castTest(Vehicle veh){
 
-        Car cVehicle = (Car) veh;
-        ((Car) veh).noOfDoors();
+        //Car cVehicle = (Car) veh;
+        //((Car) veh).noOfDoors();
         //veh.noOfDoors();
-        cVehicle.start();
-        cVehicle.noOfDoors();
+        veh.start();
+        //cVehicle.noOfDoors();
 
     }
 }
