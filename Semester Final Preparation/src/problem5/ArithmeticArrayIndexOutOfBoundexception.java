@@ -15,7 +15,7 @@ public class ArithmeticArrayIndexOutOfBoundexception {
             System.out.printf("Result is %d",result);
             int[] a = new int[5];
             a[6] = first/second;
-            System.out.printf("Result is %d",a[6]);
+            System.out.printf("Result is a[6]=%d",a[6]);
 
         }catch (ArithmeticException exception){
             System.out.printf("%s, enter valid values",exception.getMessage());
