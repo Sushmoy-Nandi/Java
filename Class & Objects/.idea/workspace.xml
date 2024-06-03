@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30a3c1cb-983d-4fb7-9898-e0136b576c42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/calculator2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/passby/TestPassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/passby/TestPassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception and File Handling/src/in/kgcoding/exception/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception and File Handling/src/in/kgcoding/exception/practice/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem2/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem3/MyAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem3/animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem3/animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester Final Preparation/src/problem4/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/TestTransportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/TestTransportation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstruction and Polymorphism/src/in/kgcoding/abstruction/polymorphism/Vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2h9CFjG0sOHQoWgUv2SHjCleamO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Batch 3/Java/Class & Objects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30a3c1cb-983d-4fb7-9898-e0136b576c42" name="Changes" comment="" />
+      <created>1716996804565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716996804565</updated>
+    </task>
+    <servers />
+  </component>
+</project>

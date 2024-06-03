@@ -6,6 +6,8 @@ public class TestTransportation {
         Car c = new Car();
         //Vehicle v= new Vehicle();
         Plane p = new Plane();
+//        c.start();
+//        p.start();
 
         //castTest(v);
         castTest(c);

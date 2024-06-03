@@ -1,6 +1,6 @@
 package in.kgcoding.abstruction.passby;
 
-public class TestPassBy {
+public class TestPassByValue {
     public static void main(String[] args) {
         int x=5;
         int y=10;
